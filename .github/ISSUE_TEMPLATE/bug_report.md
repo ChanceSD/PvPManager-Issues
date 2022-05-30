@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve PvPManager
 title: ''
 labels: bug
-assignees: NoChanceSD
+assignees: ChanceSD
 
 ---
 
